@@ -5,6 +5,7 @@
 [![Codecov test coverage](https://codecov.io/gh/Appsilon/data.validator/branch/master/graph/badge.svg)](https://codecov.io/gh/Appsilon/data.validator?branch=master)
 [![cranlogs](https://cranlogs.r-pkg.org/badges/data.validator)](https://CRAN.R-project.org/package=data.validator)
 [![total](https://cranlogs.r-pkg.org/badges/grand-total/data.validator)](https://CRAN.R-project.org/package=data.validator)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fshmileee%2Fdata.validator.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fshmileee%2Fdata.validator?ref=badge_shield)
 
 <img src="assets/hexsticker.png" width="160px" align="right"/>
 
@@ -198,3 +199,7 @@ Appsilon is the **Full Service Certified RStudio Partner**. Learn more
 at [appsilon.com](https://appsilon.com).
 
 Get in touch [support+opensource@appsilon.com](support+opensource@appsilon.com)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fshmileee%2Fdata.validator.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fshmileee%2Fdata.validator?ref=badge_large)
